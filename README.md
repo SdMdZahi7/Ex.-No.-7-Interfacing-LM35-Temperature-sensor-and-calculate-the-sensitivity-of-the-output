@@ -2,7 +2,7 @@
 
 
 ### Ex. No. :7
-## Date: 
+## Date: 5/11/2022
 ### Interfacing LM35 Temperature sensor and calculate the sensitivity of the output
 
 ## Aim: 
@@ -192,6 +192,7 @@ Low-Impedance Output, 0.1 Ω for 1-mA Load
 Figure -08 Circuit diagram of interfacing an LM35  with ADC input pin 
 
 ## Kiel - Program 
+
  
 ## Tabulations and graph 
 Calculation of sensitivity 
