@@ -2,6 +2,7 @@
 
 
 ### Ex. No. :7
+### NAME:SYED MUHAMMED ZAHI
 ## Date: 5/11/2022
 ### Interfacing LM35 Temperature sensor and calculate the sensitivity of the output
 
