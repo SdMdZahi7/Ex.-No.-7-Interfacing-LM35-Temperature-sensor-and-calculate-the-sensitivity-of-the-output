@@ -245,6 +245,9 @@ Temperature sensor LM35 is interfaced to LPC2148 and its output is measured
 ![EXP 7 1ST](https://user-images.githubusercontent.com/94187572/200112786-03f7663f-a324-412b-960b-0bae578914a2.png)
 ## LED ON:
 ![EXP 7 END](https://user-images.githubusercontent.com/94187572/200112794-f73db444-6f20-416f-86e6-105698a1c970.png)
+## LAYOUT:
+![image](https://user-images.githubusercontent.com/94187572/200113240-830a9ff3-fbea-430b-a887-65c312a564b6.png)
+
 
 
 
